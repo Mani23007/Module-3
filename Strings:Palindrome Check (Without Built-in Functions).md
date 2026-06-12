@@ -30,4 +30,4 @@ else:
 
 
 ## Result:
-Thus,the program is exwcuted successfully.
+Thus,the program is executed successfully.
